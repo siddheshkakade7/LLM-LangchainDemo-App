@@ -10,11 +10,12 @@ python -m venv .venv
 ## macOS/Linux
 source .venv/bin/activate
 
-##3.pip install -r requirements.txt
-##4. Add your OpenAI API key
+## 3.pip install -r requirements.txt
+## 4. Add your OpenAI API key
 Create a .env file in the root directory with the following content:
 
 OPENAI_API_KEY=your-openai-key-here
+
 
 
 
