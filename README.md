@@ -3,10 +3,6 @@
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/langchain-doc-app.git
-cd langchain-doc-app
-
 2. Create and activate a virtual environment
 python -m venv .venv
 # Windows
@@ -19,3 +15,4 @@ source .venv/bin/activate
 Create a .env file in the root directory with the following content:
 
 OPENAI_API_KEY=your-openai-key-here
+
